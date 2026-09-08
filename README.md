@@ -10,5 +10,6 @@ BUSINESS ANALYSIS SKILLS
 7. Stakeholder Communication
 8. Promblem Solving
 9. Process Improvement
+ 
 CAREER GOAL
 To build a career as a Business Analyst and contribute to business process improvement, requirement analysis, and effective stakeholder communicaation. 
